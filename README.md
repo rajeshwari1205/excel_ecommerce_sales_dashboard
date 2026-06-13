@@ -16,3 +16,17 @@ The objective of this project is to analyse E-Commerce sales data and create an 
 - Identify the best and worst-performing business areas.
   
 - Dashboard Interaction <a href="https://github.com/rajeshwari1205/excel_ecommerce_sales_dashboard/blob/main/Excel%20Dashboard.png ">View Dashboard</a>
+
+## Process
+- Checked for missing values and data inconsistencies.
+- Cleaned and formatted the data for analysis.
+- Created calculated fields such as Revenue, Profit, and Profit Margin.
+- Built Pivot Tables to answer business questions.
+- Developed Pivot Charts for visualization.
+- Created an interactive dashboard with filters and slicers.
+
+## Dashboard
+
+
+<img width="605" height="417" alt="Excel Dashboard" src="https://github.com/user-attachments/assets/c94bea55-8d95-4092-ad6a-2a0993061670" />
+
