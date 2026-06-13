@@ -1,2 +1,3 @@
-# Excel-ecommerce-sales-dashboard
-An interactive E-Commerce Sales Performance Dashboard built in Microsoft Excel using Pivot Tables, Pivot Charts, and Slicers. The project analyses sales, profit, customer segments, and category performance to generate actionable business insights and support data-driven decision-making.
+# E-Commerce Sales Performance Dashboard (MS Excel)
+## Project Objective
+The objective of this project is to analyse E-Commerce sales data and create an interactive dashboard in Microsoft Excel. The dashboard helps identify sales trends, profit performance, top-performing categories, and business insights that can support better decision-making.
