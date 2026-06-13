@@ -30,3 +30,12 @@ The objective of this project is to analyse E-Commerce sales data and create an 
 
 <img width="605" height="417" alt="Excel Dashboard" src="https://github.com/user-attachments/assets/c94bea55-8d95-4092-ad6a-2a0993061670" />
 
+## Project Insight
+- Identified the highest revenue-generating product categories.
+- Analysed monthly sales performance and trends.
+- Determined the most profitable regions and customer segments.
+- Compared sales and profit across different categories.
+- Highlighted opportunities for improving business performance.
+
+## Final Conclusion:
+The dashboard provides a comprehensive overview of sales and profit performance. By analysing category-wise, region-wise, and monthly trends, businesses can identify growth opportunities, improve profitability, and make data-driven decisions. The interactive dashboard enables quick exploration of key metrics and supports strategic planning.
